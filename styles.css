@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.project-card {
+    transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+}
+
+.about-section img {
+    max-width: 100%;
+    border-radius: 1rem;
+}
